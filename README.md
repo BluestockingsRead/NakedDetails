@@ -1,7 +1,7 @@
 ### Naked Details
 A very simple userscript to automatically open all `<details>` tags on any website. It's super basic so you can customize it however you wish.
 
-- **File:** NakedDetails.js
+- **File:** NakedDetails.user.js
 - **Description:** Opens all `<details>` HTML tags on any website. Easily tweakable to target specific sites or details tags with specific classes.
 - **Usage:** Install the script using a userscript manager (such as Tampermonkey) to reveal details tags on any website.
 
